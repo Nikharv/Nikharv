@@ -49,31 +49,6 @@
 
 ---
 
-## 📌 Featured Projects
-
-### 🔧 [32-bit ALU with Custom Ops](https://github.com/Nikharv/CS147-DaVinci-CPU)
-> Designed an ALU in Verilog supporting core logic operations. Simulated edge cases and debugged waveform signals using ModelSim.
-
-### 🛡️ [HTTP Flood Attack Defense](https://github.com/MrKarkeys/CS166Proj)
-> Built a DNS amplification + HTTP flood simulation with live packet filtering via Scapy, custom firewall rules, and traffic pattern analysis.
-
-### 🍱 [Food Macro Tracker with GUI](https://github.com/Smalls141414/CS151-MacroTracker)
-> Tracked macros with personalized profiles, data visualization, and daily goals using Python GUI and charting tools.
-
-### 🖥️ [Process Management Simulator in Linux](https://github.com/Nikharv/CS149-OS-Process-Simulator)
-> Implemented a multi-process Linux simulator handling scheduling, IPC, context switching, and execution logs.
-
-### ☁️ [AWS Lambda + S3 Automation](https://github.com/Nikharv/)
-> Serverless backend system automating file storage and triggering custom workflows using Lambda, S3, and CloudWatch.
-
-### 🦀 [HTTP Server in Rust](https://github.com/Nikharv/)
-> Built a fast, non-blocking Rust web server with routing and I/O error handling from scratch.
-
-### 🎬 [Video Rental Web App](https://github.com/Nikharv/)
-> Full-stack rental service with Django, PostgreSQL, and Stripe payment integration. CRUD backend with model testing.
-
----
-
 ## 📈 GitHub Stats
 
 <p align="center">
