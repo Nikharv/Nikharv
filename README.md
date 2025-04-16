@@ -7,7 +7,6 @@
 <p align="center">
   <a href="mailto:nikharvdomadiya@gmail.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/nikharv/"><img src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/phone-+1 (973)%20388--9876-black?style=for-the-badge" />
 </p>
 
 ---
